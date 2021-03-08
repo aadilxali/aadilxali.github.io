@@ -43,3 +43,22 @@
 - got caught by the FBI basically because he gave out personal info to a sketchy hacker buddy online, had the hacker community support him and donate to him since he was a legend for savng the interner basically from the ransomware virus (Wormcry)
 - judge let him go because the good he did karmically outweighed the malicious software he built (Kronos)
 - guilt still eats away at him
+
+###Money Stuff
+- The way dealers get paid is in “spread”: They buy stock from customers for a slightly lower price than the price at which they sell stock to customers. A stock that is worth $10 might have a $9.98 bid and a $10.02 offer; the dealer buys at the bid, sells at the offer, and makes about 4 cents per share for its trouble.
+- "So how do discount brokerages make money?
+NET INTEREST
+Suppose I were to give you $100, in return for your promise to give it back when I wanted it and pay me 0.27% annualized interest in the meanwhile. Suppose you invested this in a virtually riskless bond, perhaps a mortgage-backed security with government backing, offering 2.53% annualized interest. You’d earn $2.26 in net interest in a year.
+
+Suppose I were to give you $200 billion dollars. Now I’m the American middle class and you’re Charles Schwab. You would earn something like $5.8 billion dollars in net interest income. This would entirely pay for your sideline business in running a brokerage. Stocks, bonds, mutual funds, branch offices, call centers, blah blah blah, it all exists to justify the only pricing page that matters, and all the verbiage on the pricing page is about how much you pay the customer.
+
+This is an exaggeration, but not much of one. 57% of Schwab’s revenues are from net interest. The firm could literally give away every other service; discount the mutual fund fees to zero, do away with commissions, etc etc, and they would still be profitable.
+
+Schwab isn’t even the leader among discount brokerages in dependence on net interest. That would be ETRADE, at about 67% of revenues. Interactive Brokers makes 49% and TD Ameritrade 51% in the segment."
+
+###How Discount Brokerages make money
+Net interest - you deposit money and the bank invests it into something riskless, they pay you less interest than they make by investing your money
+Commisions - self explanatory although we're now trending towards $0 commisions
+- selling you their own products (mutual funds, etfs, etc)
+- lending stocks (when someone wants to make a short trade), charges fees for that
+- payment for order flow (don't fully understand this, I think it's because stock dealers will pay the brokerages a tiny bit to buy and sell whenever they want since retail investors use pbrokerages and are constantly buying and selling therefore the dealers can buy and sell at slightly better prices)
