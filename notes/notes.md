@@ -64,7 +64,7 @@ Commisions - self explanatory although we're now trending towards $0 commisions
 - payment for order flow (don't fully understand this, I think it's because stock dealers will pay the brokerages a tiny bit to buy and sell whenever they want since retail investors use pbrokerages and are constantly buying and selling therefore the dealers can buy and sell at slightly better prices)
 
 ### March 10, 2021 Money Stuff
-#### Extremely pleasing tax case
+#### Extremely pleasing tax case - an extract
 The way corporate income tax works is pretty much that you add up the company’s revenue, you subtract its expenses, and you’re left with its net income. Then it pays taxes as a percentage of that net income. This is basically straightforward, though sometimes people fight over what should count as an expense. (In the U.S., interest on debt is tax-deductible, but dividends on stock are not, which arguably encourages excessive debt, etc.)
 
 The way personal income tax works is not like that. You add up all your revenue, but you do not subtract your expenses, generally; if you are paid $100,000 a year and spend $93,000 on food and clothes and rent and stuff, your taxable income is $100,000, not $7,000. Well, that’s not quite right either; there are a bunch of expenses that are “deductible”—they reduce your taxable income—and sometimes people fight over what expenses should be deductible. (In the U.S. these fights tend to be over things like mortgage interest, state taxes, charitable contributions, etc.)
