@@ -44,7 +44,7 @@
 - judge let him go because the good he did karmically outweighed the malicious software he built (Kronos)
 - guilt still eats away at him
 
-###Money Stuff
+### Money Stuff
 - The way dealers get paid is in “spread”: They buy stock from customers for a slightly lower price than the price at which they sell stock to customers. A stock that is worth $10 might have a $9.98 bid and a $10.02 offer; the dealer buys at the bid, sells at the offer, and makes about 4 cents per share for its trouble.
 - "So how do discount brokerages make money?
 NET INTEREST
@@ -56,9 +56,39 @@ This is an exaggeration, but not much of one. 57% of Schwab’s revenues are fro
 
 Schwab isn’t even the leader among discount brokerages in dependence on net interest. That would be ETRADE, at about 67% of revenues. Interactive Brokers makes 49% and TD Ameritrade 51% in the segment."
 
-###How Discount Brokerages make money
+### How Discount Brokerages make money
 Net interest - you deposit money and the bank invests it into something riskless, they pay you less interest than they make by investing your money
 Commisions - self explanatory although we're now trending towards $0 commisions
 - selling you their own products (mutual funds, etfs, etc)
 - lending stocks (when someone wants to make a short trade), charges fees for that
 - payment for order flow (don't fully understand this, I think it's because stock dealers will pay the brokerages a tiny bit to buy and sell whenever they want since retail investors use pbrokerages and are constantly buying and selling therefore the dealers can buy and sell at slightly better prices)
+
+### March 10, 2021 Money Stuff
+#### Extremely pleasing tax case
+The way corporate income tax works is pretty much that you add up the company’s revenue, you subtract its expenses, and you’re left with its net income. Then it pays taxes as a percentage of that net income. This is basically straightforward, though sometimes people fight over what should count as an expense. (In the U.S., interest on debt is tax-deductible, but dividends on stock are not, which arguably encourages excessive debt, etc.)
+
+The way personal income tax works is not like that. You add up all your revenue, but you do not subtract your expenses, generally; if you are paid $100,000 a year and spend $93,000 on food and clothes and rent and stuff, your taxable income is $100,000, not $7,000. Well, that’s not quite right either; there are a bunch of expenses that are “deductible”—they reduce your taxable income—and sometimes people fight over what expenses should be deductible. (In the U.S. these fights tend to be over things like mortgage interest, state taxes, charitable contributions, etc.)
+
+But broadly speaking, in the U.S., most of the expenses of life are not deductible, and people get taxed on their gross income, not the income they have left over after buying stuff. But what is income? Obviously if you have a job and get a salary, that’s income. If you buy a lottery ticket and win, your winnings are income. Most of the time, if you get money, that’s income. But if you buy some shoes and don’t like them and return them, and the shoe store gives you a $100 refund, surely that’s not income. Your shoe purchase was not tax-deductible; you couldn’t reduce your taxable income by $100 by buying shoes. So when you return the shoes and get your money back, that should not increase your taxable income by $100.
+
+Similarly if you buy a product and send back the mail-in rebate coupon and get back $5, that's not income. Or if you buy a product on your credit card that gives you 5% cash back, that 5% cash back is not income; it’s just a reduction in the purchase price. There is a “longstanding Internal Revenue Service practice, which says credit-card rewards are usually nontaxable rebates. In other words, buying a pair of shoes for $100 and getting a 5% reward is really a $95 purchase, not $5 of income.”[4]
+
+What if the product that you buy is $6.4 million worth of grocery-store gift cards that you then exchange for money orders that you then use to pay off your credit card bill, allowing you to keep the 5% cash reward offered by the credit card company? Then:
+
+You are amazing, my friend, truly, hats off to you.
+But is it taxable income?
+The person who did this is named Konstantin Anikeev, and he is an experimental physicist. The Wall Street Journal, which tells the story of his gift-card experiment, calls it “an inquiry far outside his field,” but I disagree; he built a perpetual motion machine, which has fascinated experimental physicists for centuries. He was able to “exploit the difference between unlimited 5% rewards and lower fees on gift cards and money orders” to just shuffle money around, risklessly, routinely, in a way that left him with more money than he started with:
+
+His American Express card offered unlimited 5% rewards at grocery stores and pharmacies after he had spent $6,500. So Mr. Anikeev used his AmEx card to buy prepaid Visa gift cards at grocery stores, routinely stopping during his commute and purchasing the maximum allowed per day at a store. He often used the gift cards to buy money orders, then used the money orders to make deposits in his bank account, then used that money to pay his credit-card bill.
+
+In a $500 transaction, the 5% rewards would yield $25—more than enough to cover gift-card fees of about $5 and the $1 fee on the money order.
+
+He made about $310,000 doing this.[5] As an exploit of credit-card rewards it is fairly straightforward, though ambitious in its sheer scale. (An American Express spokesman “said the company uses a ‘combination of strategies’ to police the rules of rewards programs that don’t allow purchases of cash equivalents.”[6])
+
+As an inquiry into the nature of taxable income it is more profound, though. The IRS sued him, claiming that the $310,000 was income. He replied, no, it was just rebates on purchases. The IRS is sort of obviously right. Surely the only way to get $310,000 of rebates on purchases is by having more than $310,000 of taxable income. If you make $3.1 million at your job and buy $3.1 million of stuff and get 10% cash back then, sure, you got $310,000 of rebates, and those rebates are not income. If you make $100,000 in salary and cycle it frantically through gift cards until you earn $310,000 of rewards, it can’t really be the case that your taxable income was only $100,000. If that $310,000 was just a reduction in the price of goods that you purchased, where did you get all the money to do all that purchasing? Surely from income, right?[7]
+
+The IRS mostly lost in Tax Court though; here is the opinion. Basically the judge found that the perpetual-motion machine works and is non-taxable; if you buy gift cards with your credit card, use the gift cards to buy money orders, and use the money orders to pay your credit card bill, then it’s not taxable income.[8] Seems wrong philosophically, but it’s based on the IRS policy that credit card rewards are not income. The judge writes:
+
+This policy reflects the recognition that a taxpayer who avails himself or herself of a discount in acquiring goods and services has no accession to wealth. That taxpayer has retained more of his or her wealth than a taxpayer who pays full price for the same good or service, but that taxpayer has no additional income; he or she simply has reduced consumption. Although as Benjamin Franklin wisely observed, “[a] penny saved is two pence clear” (which became known more colloquially as “a penny saved is a penny earned”), the income tax law imposes a tax only on the future penny earned, not on the current penny saved.
+
+That obviously is not what happened here—he did not reduce consumption!—but if you have a general theory it will not always fit all the specific facts. Here the general theory is “rebates on consumption are not income.” You set up some extreme conditions, you run some experiments, and you see if the theory holds. Weirdly, it does.
