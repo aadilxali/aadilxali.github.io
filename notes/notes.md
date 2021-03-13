@@ -1,5 +1,6 @@
+## Aadil's amalgamation of Notes and Quotes
 ### Out of Pocket Email Newsletter - Video Games x Health Care
-- thinking of tranditional industries as video games
+- thinking of traditional industries as video games
 	- community mods (ex. in healthcare: DIY insulin pumps, in finance: wealthsimple with their graphs and showing how fan an initial contributon will to in 40 years)
 	- allowing people to flex on each other (ex. showing miles traveled or routes on strava, memes on tech twitter but this might be more of a status 'game')
 	- time sensitive special events (ex. people usually make a point to get flu shots/ know about flu 'season')
